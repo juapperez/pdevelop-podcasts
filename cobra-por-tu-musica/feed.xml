@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Cobra por tu música — de Backstage</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/feed.xml" rel="self" type="application/rss+xml" />
+    <description>El negocio de la música 101, un tema cada vez: los dos derechos de cada canción, los derechos conexos de intérpretes y productores, los tipos de regalías y quién las recauda, qué hacen las editoriales y las distribuidoras, qué mirar en un contrato y una lista de control para cobrar. Cada país es distinto, y los contratos importantes merecen un abogado especializado en música. De Backstage: Industria Musical, la app donde sigues aprendiendo el negocio de la música. Narrado con una voz sintética.</description>
+    <language>es</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>17e1b3aa-b79d-57b9-b0e1-8aa1fdb0ec2c</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Fri, 20 Nov 2026 21:49:11 GMT</lastBuildDate>
+    <item>
+      <title>Antes de firmar y para cobrar: los contratos y una lista de control</title>
+      <description>Antes de firmar y para cobrar: los contratos y una lista de control. Los contratos: Qué leer antes de firmar. Cómo cobrar: Una lista de control para cada lanzamiento.
+
+Fuentes:
+- International ISRC Agency (IFPI), "ISRC": https://isrc.ifpi.org/en/
+- CISAC, "International Identifiers" (ISWC, ISO 15707): https://www.cisac.org/services/information-services/international-identifiers
+- ebook gratuito «Cobra por tu música», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep04.mp3" type="audio/mpeg" length="6307578" />
+      <guid isPermaLink="false">cobra-por-tu-musica-ep04</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>394</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Editoriales y distribuidoras: el negocio de las canciones y de las grabaciones</title>
+      <description>Editoriales y distribuidoras: el negocio de las canciones y de las grabaciones. La edición musical: El negocio de las canciones. La distribución: Llevar tus grabaciones al mundo.
+
+Fuentes:
+- CISAC, "Collective management organisations": https://www.cisac.org/services/education-program/collective-management/organisations
+- International ISRC Agency (IFPI), "ISRC": https://isrc.ifpi.org/en/
+- CISAC, "International Identifiers" (ISWC, ISO 15707): https://www.cisac.org/services/information-services/international-identifiers
+- ebook gratuito «Cobra por tu música», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep03.mp3" type="audio/mpeg" length="5624238" />
+      <guid isPermaLink="false">cobra-por-tu-musica-ep03</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>351</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>De dónde sale el dinero: las regalías y quién las recauda</title>
+      <description>De dónde sale el dinero: las regalías y quién las recauda. De dónde sale el dinero: Los principales tipos de regalías. Las sociedades de gestión: Quién recauda, y cómo.
+
+Fuentes:
+- US Copyright Office, "Copyright Protections for Musicians": https://www.copyright.gov/engage/musicians/
+- US Copyright Office, "How long does copyright protection last?": https://www.copyright.gov/help/faq/faq-duration.html
+- The Mechanical Licensing Collective, "About": https://www.themlc.com/about
+- CISAC, "Collective management organisations": https://www.cisac.org/services/education-program/collective-management/organisations
+- BMI, Royalty Policy Manual (parte del autor y parte de la editorial): https://www.bmi.com/creators/royalty-policy-manual
+- CISAC, "International Identifiers" (ISWC, ISO 15707): https://www.cisac.org/services/information-services/international-identifiers
+- Texto: Backstage, escrito para este libro. Traducido de la edición en inglés, Get Paid for Your Music.
+- ebook gratuito «Cobra por tu música», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep02.mp3" type="audio/mpeg" length="6088986" />
+      <guid isPermaLink="false">cobra-por-tu-musica-ep02</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>380</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Dos derechos en cada canción: la canción, la grabación y los derechos conexos</title>
+      <description>Dos derechos en cada canción: la canción, la grabación y los derechos conexos. Dos derechos en cada canción: La canción y la grabación. Derechos conexos: Intérpretes, productores y organismos de radiodifusión.
+
+Fuentes:
+- US Copyright Office, "Copyright Protections for Musicians": https://www.copyright.gov/engage/musicians/
+- US Copyright Office, "How long does copyright protection last?": https://www.copyright.gov/help/faq/faq-duration.html
+- Organización Mundial de la Propiedad Intelectual (OMPI), "Summary of the Berne Convention for the Protection of Literary and Artistic Works": https://www.wipo.int/treaties/en/ip/berne/summary_berne.html
+- OMPI, "Summary of the Rome Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations": https://www.wipo.int/treaties/en/ip/rome/summary_rome.html
+- ebook gratuito «Cobra por tu música», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep01.mp3" type="audio/mpeg" length="7797537" />
+      <guid isPermaLink="false">cobra-por-tu-musica-ep01</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>487</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/cobra-por-tu-musica/cobra-por-tu-musica-es-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>

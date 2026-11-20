@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Receba pela sua música — do Backstage</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/feed.xml" rel="self" type="application/rss+xml" />
+    <description>O negócio da música 101, um tema de cada vez: os dois direitos de cada música, os direitos conexos de intérpretes e produtores, os tipos de royalties e quem os arrecada, o que fazem as editoras e as distribuidoras, o que olhar num contrato e um checklist para receber. Cada país é diferente, e contratos importantes merecem um advogado especializado em música. Do Backstage: Indústria Musical, o aplicativo onde você continua aprendendo o negócio da música. Narrado com uma voz sintética.</description>
+    <language>pt-BR</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>84087e8f-f400-519d-80f5-9eb10ac749ee</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Fri, 20 Nov 2026 21:49:11 GMT</lastBuildDate>
+    <item>
+      <title>Antes de assinar e para receber: os contratos e um checklist</title>
+      <description>Antes de assinar e para receber: os contratos e um checklist. Os contratos: O que ler antes de assinar. Como receber: Um checklist para cada lançamento.
+
+Fontes:
+- CISAC, "International Identifiers" (ISWC, ISO 15707): https://www.cisac.org/services/information-services/international-identifiers
+- ebook gratuito «Receba pela sua música», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep04.mp3" type="audio/mpeg" length="6786567" />
+      <guid isPermaLink="false">receba-pela-sua-musica-ep04</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>424</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Editoras e distribuidoras: o negócio das canções e das gravações</title>
+      <description>Editoras e distribuidoras: o negócio das canções e das gravações. A edição musical: O negócio das canções. A distribuição: Levar as suas gravações ao mundo.
+
+Fontes:
+- CISAC, "Collective management organisations": https://www.cisac.org/services/education-program/collective-management/organisations
+- International ISRC Agency (IFPI), "ISRC": https://isrc.ifpi.org/en/
+- CISAC, "International Identifiers" (ISWC, ISO 15707): https://www.cisac.org/services/information-services/international-identifiers
+- ebook gratuito «Receba pela sua música», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep03.mp3" type="audio/mpeg" length="5956155" />
+      <guid isPermaLink="false">receba-pela-sua-musica-ep03</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>372</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>De onde vem o dinheiro: os royalties e quem os arrecada</title>
+      <description>De onde vem o dinheiro: os royalties e quem os arrecada. De onde vem o dinheiro: Os principais tipos de royalties. As sociedades de gestão coletiva: Quem arrecada, e como.
+
+Fontes:
+- US Copyright Office, "Copyright Protections for Musicians": https://www.copyright.gov/engage/musicians/
+- US Copyright Office, "How long does copyright protection last?": https://www.copyright.gov/help/faq/faq-duration.html
+- The Mechanical Licensing Collective, "About": https://www.themlc.com/about
+- CISAC, "Collective management organisations": https://www.cisac.org/services/education-program/collective-management/organisations
+- BMI, Royalty Policy Manual (parte do autor e parte da editora): https://www.bmi.com/creators/royalty-policy-manual
+- CISAC, "International Identifiers" (ISWC, ISO 15707): https://www.cisac.org/services/information-services/international-identifiers
+- Texto: Backstage, escrito para este livro. Traduzido da edição em inglês, Get Paid for Your Music.
+- ebook gratuito «Receba pela sua música», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep02.mp3" type="audio/mpeg" length="6447494" />
+      <guid isPermaLink="false">receba-pela-sua-musica-ep02</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>403</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Dois direitos em cada música: a canção, a gravação e os direitos conexos</title>
+      <description>Dois direitos em cada música: a canção, a gravação e os direitos conexos. Dois direitos em cada música: A canção e a gravação. Direitos conexos: Intérpretes, produtores e emissoras.
+
+Fontes:
+- US Copyright Office, "Copyright Protections for Musicians": https://www.copyright.gov/engage/musicians/
+- US Copyright Office, "How long does copyright protection last?": https://www.copyright.gov/help/faq/faq-duration.html
+- Organização Mundial da Propriedade Intelectual (OMPI), "Summary of the Berne Convention for the Protection of Literary and Artistic Works": https://www.wipo.int/treaties/en/ip/berne/summary_berne.html
+- OMPI, "Summary of the Rome Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations": https://www.wipo.int/treaties/en/ip/rome/summary_rome.html
+- ebook gratuito «Receba pela sua música», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep01.mp3" type="audio/mpeg" length="8275285" />
+      <guid isPermaLink="false">receba-pela-sua-musica-ep01</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>517</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/receba-pela-sua-musica/receba-pela-sua-musica-pt-BR-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>

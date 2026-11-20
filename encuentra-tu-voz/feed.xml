@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Encuentra tu voz — de Canta</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Canto práctico, una habilidad cada vez: cómo funciona tu voz, la respiración y el apoyo, la afinación, el puente entre la voz de pecho y la de cabeza, la resonancia, el calentamiento, el cuidado de la voz y un plan de práctica de cuatro semanas. Cada episodio trae ejercicios para hacer en casa. De canta, la app que escucha tu voz para que veas lo que estás cantando. Narrado con una voz sintética.</description>
+    <language>es</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>39b5a290-7ce6-5258-abae-a7fab4e7e7a0</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Fri, 20 Nov 2026 21:49:11 GMT</lastBuildDate>
+    <item>
+      <title>Seguir cantando: cuidar tu voz y un plan de cuatro semanas</title>
+      <description>Seguir cantando: cuidar tu voz y un plan de cuatro semanas. Cuidar tu voz: Hábitos para seguir cantando. Un plan de práctica: Veinte minutos al día durante cuatro semanas.
+
+Fuentes:
+- National Institute on Deafness and Other Communication Disorders (NIDCD), "Taking Care of Your Voice": https://www.nidcd.nih.gov/health/taking-care-your-voice
+- ebook gratuito «Encuentra tu voz», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep05.mp3" type="audio/mpeg" length="6074058" />
+      <guid isPermaLink="false">encuentra-tu-voz-ep05</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>379</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep05.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Dar forma al sonido: resonancia, vocales y calentamiento</title>
+      <description>Dar forma al sonido: resonancia, vocales y calentamiento. Resonancia y vocales: Dar forma al sonido. El calentamiento: Diez minutos antes de cantar.
+
+Fuentes:
+- National Center for Voice and Speech, reseña y resumen de Karin Titze Cox e Ingo R. Titze, Voice Is FREE after SOVT: Semi-Occluded Vocal Tract Principles, Methods, and Training: https://ncvs.org/a-review-and-summary-of-karin-titze-cox-and-ingo-r-titzes-most-recent-publication-voice-is-free-after-sovt-semi-occluded-vocal-tract-principles-methods-and-training/
+- ebook gratuito «Encuentra tu voz», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep04.mp3" type="audio/mpeg" length="6771831" />
+      <guid isPermaLink="false">encuentra-tu-voz-ep04</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>423</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Afinar y cruzar el puente: la afinación y los registros</title>
+      <description>Afinar y cruzar el puente: la afinación y los registros. La afinación: Oír la nota y llegar a ella. Los registros: Voz de pecho, voz de cabeza y el puente entre ellas.
+
+Fuentes:
+- Organización Internacional de Normalización, ISO 16:1975, Acoustics – Standard tuning frequency (Standard musical pitch)
+- Alexander J. Ellis, "On the Musical Scales of Various Nations", Journal of the Society of Arts, 1885 (origen del cent)
+- Bernard Roubeau, Nathalie Henrich y Michèle Castellengo, "Laryngeal vibratory mechanisms: the notion of vocal register revisited", Journal of Voice, 23(4), 2009, pp. 425–438
+- National Center for Voice and Speech, reseña y resumen de Karin Titze Cox e Ingo R. Titze, Voice Is FREE after SOVT: Semi-Occluded Vocal Tract Principles, Methods, and Training: https://ncvs.org/a-review-and-summary-of-karin-titze-cox-and-ingo-r-titzes-most-recent-publication-voice-is-free-after-sovt-semi-occluded-vocal-tract-principles-methods-and-training/
+- Texto: canta, escrito para este libro. Traducido de la edición en inglés, Find Your Voice.
+- ebook gratuito «Encuentra tu voz», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep03.mp3" type="audio/mpeg" length="7278860" />
+      <guid isPermaLink="false">encuentra-tu-voz-ep03</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>455</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Respirar para cantar: la respiración y el apoyo</title>
+      <description>Respirar para cantar: la respiración y el apoyo. Respirar para cantar: Abajo, en silencio y a punto. El apoyo: Administrar el aire mientras cantas.
+
+Fuentes:
+- National Heart, Lung, and Blood Institute (NHLBI), "How the Lungs Work: What Breathing Does for the Body": https://www.nhlbi.nih.gov/health/lungs/breathing-benefits
+- ebook gratuito «Encuentra tu voz», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep02.mp3" type="audio/mpeg" length="6364324" />
+      <guid isPermaLink="false">encuentra-tu-voz-ep02</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>398</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Tu voz es un instrumento: cómo funciona cantar</title>
+      <description>Tu voz es un instrumento: cómo funciona cantar. El instrumento que llevas dentro: Cómo funciona tu voz.
+
+Fuentes:
+- National Institute on Deafness and Other Communication Disorders (NIDCD), "Taking Care of Your Voice": https://www.nidcd.nih.gov/health/taking-care-your-voice
+- ebook gratuito «Encuentra tu voz», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep01.mp3" type="audio/mpeg" length="5755292" />
+      <guid isPermaLink="false">encuentra-tu-voz-ep01</guid>
+      <pubDate>Fri, 20 Nov 2026 21:49:11 GMT</pubDate>
+      <itunes:duration>360</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/encuentra-tu-voz/encuentra-tu-voz-es-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>
