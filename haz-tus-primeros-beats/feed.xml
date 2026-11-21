@@ -3,8 +3,7 @@
   <channel>
     <title>Haz tus primeros beats — de Monobox</title>
     <link>https://pdevelop.net/</link>
-    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/haz-tus-primeros-beats/feed.xml</itunes:new-feed-url>
-    <atom:link href="https://pdevelop-music-podcasts.pages.dev/haz-tus-primeros-beats/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/feed.xml" rel="self" type="application/rss+xml" />
     <description>Cajas de ritmos y ritmo, paso a paso: cómo cuenta un secuenciador por pasos, qué hace cada sonido de batería, tu primer beat, los ritmos clásicos de cada género, el swing y el groove, los acentos y la dinámica, cómo darle forma al sonido y cómo convertir un patrón en un tema completo. Cada episodio termina con algo para probar. De Monobox, la caja de ritmos y groovebox. Narrado con voz sintética.</description>
     <language>es</language>
     <copyright>© PDEVELOP</copyright>
@@ -13,7 +12,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/haz-tus-primeros-beats/cover-3000x3000.jpg" />
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -22,7 +21,7 @@
     </itunes:category>
     <podcast:guid>77b3ff9c-bd20-534f-b4b9-ab9b36717364</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
     <item>
       <title>Darle forma al sonido, y del patrón al tema</title>
       <description>Darle forma al sonido, y del patrón al tema. Darle forma al sonido: Afinación, duración, capas y balance. Del patrón al tema: Variaciones, redobles y estructura.
@@ -31,14 +30,14 @@ Fuentes:
 - ebook gratuito «Haz tus primeros beats», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep04.mp3" type="audio/mpeg" length="6245117" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep04.mp3" type="audio/mpeg" length="6245117" />
       <guid isPermaLink="false">haz-tus-primeros-beats-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>390</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Swing, groove, acentos y dinámica</title>
@@ -51,14 +50,14 @@ Fuentes:
 - ebook gratuito «Haz tus primeros beats», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep03.mp3" type="audio/mpeg" length="6318528" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep03.mp3" type="audio/mpeg" length="6318528" />
       <guid isPermaLink="false">haz-tus-primeros-beats-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>395</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Tu primer beat, y ritmos por género</title>
@@ -70,14 +69,14 @@ Fuentes:
 - ebook gratuito «Haz tus primeros beats», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep02.mp3" type="audio/mpeg" length="5564321" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep02.mp3" type="audio/mpeg" length="5564321" />
       <guid isPermaLink="false">haz-tus-primeros-beats-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>348</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Cómo piensa una caja de ritmos, y la batería en una caja</title>
@@ -91,14 +90,14 @@ Fuentes:
 - ebook gratuito «Haz tus primeros beats», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep01.mp3" type="audio/mpeg" length="8085692" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep01.mp3" type="audio/mpeg" length="8085692" />
       <guid isPermaLink="false">haz-tus-primeros-beats-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>505</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/haz-tus-primeros-beats/haz-tus-primeros-beats-es-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

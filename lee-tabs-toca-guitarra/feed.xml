@@ -3,8 +3,7 @@
   <channel>
     <title>Lee tabs, toca guitarra — de Fretbox</title>
     <link>https://pdevelop.net/</link>
-    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/lee-tabs-toca-guitarra/feed.xml</itunes:new-feed-url>
-    <atom:link href="https://pdevelop-music-podcasts.pages.dev/lee-tabs-toca-guitarra/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/feed.xml" rel="self" type="application/rss+xml" />
     <description>Tablatura y partitura para guitarra, paso a paso: cómo se nombran las cuerdas y los trastes, cómo leer tablatura y sus símbolos, la partitura que acompaña a la tab, el mástil, los acordes abiertos, las escalas y cómo practicar con tabs. Cada episodio termina con práctica para hacer con tu guitarra. De Fretbox, el reproductor de tabs para archivos Guitar Pro y MusicXML. Narrado con voz sintética.</description>
     <language>es</language>
     <copyright>© PDEVELOP</copyright>
@@ -13,7 +12,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/lee-tabs-toca-guitarra/cover-3000x3000.jpg" />
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -22,7 +21,7 @@
     </itunes:category>
     <podcast:guid>34219954-9c0c-57e5-bf69-fafd1c23e9af</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
     <item>
       <title>Escalas, y practicar con tabs</title>
       <description>Escalas, y practicar con tabs. Escalas: Las notas que van juntas. Practicar con tabs: De leer una canción a tocarla.
@@ -32,14 +31,14 @@ Fuentes:
 - ebook gratuito «Lee tabs, toca guitarra», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep04.mp3" type="audio/mpeg" length="5934228" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep04.mp3" type="audio/mpeg" length="5934228" />
       <guid isPermaLink="false">lee-tabs-toca-guitarra-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>371</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>El mástil y los acordes abiertos</title>
@@ -49,14 +48,14 @@ Fuentes:
 - ebook gratuito «Lee tabs, toca guitarra», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep03.mp3" type="audio/mpeg" length="5867833" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep03.mp3" type="audio/mpeg" length="5867833" />
       <guid isPermaLink="false">lee-tabs-toca-guitarra-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>367</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Los símbolos de la tab y la partitura</title>
@@ -66,14 +65,14 @@ Fuentes:
 - ebook gratuito «Lee tabs, toca guitarra», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep02.mp3" type="audio/mpeg" length="5441201" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep02.mp3" type="audio/mpeg" length="5441201" />
       <guid isPermaLink="false">lee-tabs-toca-guitarra-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>340</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Cuerdas, trastes y tu primera tab</title>
@@ -84,14 +83,14 @@ Fuentes:
 - ebook gratuito «Lee tabs, toca guitarra», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep01.mp3" type="audio/mpeg" length="6685119" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep01.mp3" type="audio/mpeg" length="6685119" />
       <guid isPermaLink="false">lee-tabs-toca-guitarra-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>418</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/lee-tabs-toca-guitarra/lee-tabs-toca-guitarra-es-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

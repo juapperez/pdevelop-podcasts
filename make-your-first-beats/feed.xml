@@ -3,8 +3,7 @@
   <channel>
     <title>Make Your First Beats — by Monobox</title>
     <link>https://pdevelop.net/</link>
-    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/make-your-first-beats/feed.xml</itunes:new-feed-url>
-    <atom:link href="https://pdevelop-music-podcasts.pages.dev/make-your-first-beats/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/feed.xml" rel="self" type="application/rss+xml" />
     <description>Drum machines and rhythm, one step at a time: how a step sequencer counts, what each drum sound does, your first beat, the classic rhythms of each genre, swing and groove, accents and dynamics, shaping the sound and turning a pattern into a whole track. Every episode ends with something to try. From Monobox, the drum machine and groovebox. Narrated with a synthetic voice.</description>
     <language>en</language>
     <copyright>© PDEVELOP</copyright>
@@ -13,7 +12,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/make-your-first-beats/cover-3000x3000.jpg" />
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -22,7 +21,7 @@
     </itunes:category>
     <podcast:guid>bac56761-4d29-5e4f-9218-787c86219c01</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
     <item>
       <title>Shaping the sound, and from pattern to song</title>
       <description>Shaping the sound, and from pattern to song. Shaping the sound: Tune, length, layers and balance. From pattern to song: Variations, fills and arrangement.
@@ -32,14 +31,14 @@ Sources:
 - free ebook “Make Your First Beats”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/make-your-first-beats/make-your-first-beats-ep04.mp3" type="audio/mpeg" length="6221884" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep04.mp3" type="audio/mpeg" length="6221884" />
       <guid isPermaLink="false">make-your-first-beats-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>389</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/make-your-first-beats/make-your-first-beats-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Swing, groove, accents and dynamics</title>
@@ -52,14 +51,14 @@ Sources:
 - free ebook “Make Your First Beats”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/make-your-first-beats/make-your-first-beats-ep03.mp3" type="audio/mpeg" length="6227990" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep03.mp3" type="audio/mpeg" length="6227990" />
       <guid isPermaLink="false">make-your-first-beats-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>389</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/make-your-first-beats/make-your-first-beats-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Your first beat, and rhythms by genre</title>
@@ -71,14 +70,14 @@ Sources:
 - free ebook “Make Your First Beats”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/make-your-first-beats/make-your-first-beats-ep02.mp3" type="audio/mpeg" length="5688692" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep02.mp3" type="audio/mpeg" length="5688692" />
       <guid isPermaLink="false">make-your-first-beats-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>355</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/make-your-first-beats/make-your-first-beats-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>How a drum machine thinks, and the kit in a box</title>
@@ -92,14 +91,14 @@ Sources:
 - free ebook “Make Your First Beats”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/make-your-first-beats/make-your-first-beats-ep01.mp3" type="audio/mpeg" length="8174381" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep01.mp3" type="audio/mpeg" length="8174381" />
       <guid isPermaLink="false">make-your-first-beats-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>511</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/make-your-first-beats/make-your-first-beats-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

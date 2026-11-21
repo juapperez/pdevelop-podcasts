@@ -3,8 +3,7 @@
   <channel>
     <title>Mixe bem — do Mezcla</title>
     <link>https://pdevelop.net/</link>
-    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/mixe-bem/feed.xml</itunes:new-feed-url>
-    <atom:link href="https://pdevelop-music-podcasts.pages.dev/mixe-bem/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/feed.xml" rel="self" type="application/rss+xml" />
     <description>Aprenda a ser DJ, uma habilidade de cada vez: o equipamento e os seus ouvidos, tempos e andamento, o beatmatching, as frases, a mixagem harmônica com a roda Camelot, as transições, como montar um set e um plano de prática de quatro semanas. Com exercícios para toca-discos, CDJs, controladora ou notebook. Do Mezcla, o aplicativo para aprender a mixar. Narrado com uma voz sintética.</description>
     <language>pt-BR</language>
     <copyright>© PDEVELOP</copyright>
@@ -13,7 +12,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/mixe-bem/cover-3000x3000.jpg" />
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -22,7 +21,7 @@
     </itunes:category>
     <podcast:guid>ded1b35e-3708-5066-a3d9-e6312cc590a2</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
     <item>
       <title>De uma faixa para a próxima: transições, sets e um plano de quatro semanas</title>
       <description>De uma faixa para a próxima: transições, sets e um plano de quatro semanas. As transições: De uma faixa para a próxima. Montar um set: Energia, ordem e ler a pista. Um plano de prática: Trinta minutos por dia durante quatro semanas.
@@ -32,14 +31,14 @@ Fontes:
 - ebook gratuito «Mixe bem», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/mixe-bem/mixe-bem-pt-BR-ep04.mp3" type="audio/mpeg" length="7723805" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep04.mp3" type="audio/mpeg" length="7723805" />
       <guid isPermaLink="false">mixe-bem-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>483</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/mixe-bem/mixe-bem-pt-BR-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>No lugar certo e no tom certo: frases e mixagem harmônica</title>
@@ -53,14 +52,14 @@ Fontes:
 - ebook gratuito «Mixe bem», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/mixe-bem/mixe-bem-pt-BR-ep03.mp3" type="audio/mpeg" length="6533279" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep03.mp3" type="audio/mpeg" length="6533279" />
       <guid isPermaLink="false">mixe-bem-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>408</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/mixe-bem/mixe-bem-pt-BR-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Contar até quatro: andamento e beatmatching</title>
@@ -71,14 +70,14 @@ Fontes:
 - ebook gratuito «Mixe bem», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/mixe-bem/mixe-bem-pt-BR-ep02.mp3" type="audio/mpeg" length="6590424" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep02.mp3" type="audio/mpeg" length="6590424" />
       <guid isPermaLink="false">mixe-bem-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>412</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/mixe-bem/mixe-bem-pt-BR-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>O equipamento e os seus ouvidos: decks, mixer e fones</title>
@@ -89,14 +88,14 @@ Fontes:
 - ebook gratuito «Mixe bem», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://pdevelop-podcast-audio.web.app/mixe-bem/mixe-bem-pt-BR-ep01.mp3" type="audio/mpeg" length="5221794" />
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep01.mp3" type="audio/mpeg" length="5221794" />
       <guid isPermaLink="false">mixe-bem-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>326</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/mixe-bem/mixe-bem-pt-BR-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mixe-bem/mixe-bem-pt-BR-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
