@@ -3,7 +3,8 @@
   <channel>
     <title>Play the Recorder from Zero — by FlautaQuest</title>
     <link>https://pdevelop.net/</link>
-    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/play-the-recorder-from-zero/feed.xml</itunes:new-feed-url>
+    <atom:link href="https://pdevelop-music-podcasts.pages.dev/play-the-recorder-from-zero/feed.xml" rel="self" type="application/rss+xml" />
     <description>The soprano recorder, one step at a time: meeting the instrument, posture and hands, breath and tongue, your first notes, reading simple music, more notes, your first songs, and how to practise and care for your recorder. Every episode ends with practice you can do at home. From FlautaQuest, the app that teaches the soprano recorder from zero in short lessons. Narrated with a synthetic voice.</description>
     <language>en</language>
     <copyright>© PDEVELOP</copyright>
@@ -12,7 +13,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/cover-3000x3000.jpg" />
+    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/play-the-recorder-from-zero/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -21,7 +22,7 @@
     </itunes:category>
     <podcast:guid>3f3a134a-300d-5937-95c4-932486a937be</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
     <item>
       <title>First songs, practice and care</title>
       <description>First songs, practice and care. First songs: Putting it all together. Practice and care: Getting better and keeping your recorder healthy.
@@ -31,14 +32,14 @@ Sources:
 - free ebook “Play the Recorder from Zero”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep04.mp3" type="audio/mpeg" length="6045053" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/play-the-recorder-from-zero/play-the-recorder-from-zero-ep04.mp3" type="audio/mpeg" length="6045053" />
       <guid isPermaLink="false">play-the-recorder-from-zero-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>378</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/play-the-recorder-from-zero/play-the-recorder-from-zero-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Reading music, and more notes</title>
@@ -52,14 +53,14 @@ Sources:
 - free ebook “Play the Recorder from Zero”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep03.mp3" type="audio/mpeg" length="5863763" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/play-the-recorder-from-zero/play-the-recorder-from-zero-ep03.mp3" type="audio/mpeg" length="5863763" />
       <guid isPermaLink="false">play-the-recorder-from-zero-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>366</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/play-the-recorder-from-zero/play-the-recorder-from-zero-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Breath, tongue and your first notes</title>
@@ -69,14 +70,14 @@ Sources:
 - free ebook “Play the Recorder from Zero”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep02.mp3" type="audio/mpeg" length="5039901" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/play-the-recorder-from-zero/play-the-recorder-from-zero-ep02.mp3" type="audio/mpeg" length="5039901" />
       <guid isPermaLink="false">play-the-recorder-from-zero-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>315</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/play-the-recorder-from-zero/play-the-recorder-from-zero-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Meet the recorder: posture and hands</title>
@@ -90,14 +91,14 @@ Sources:
 - free ebook “Play the Recorder from Zero”, chapters used in this episode
 
 Narrated with a synthetic voice.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep01.mp3" type="audio/mpeg" length="7861693" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/play-the-recorder-from-zero/play-the-recorder-from-zero-ep01.mp3" type="audio/mpeg" length="7861693" />
       <guid isPermaLink="false">play-the-recorder-from-zero-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>491</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/play-the-recorder-from-zero/play-the-recorder-from-zero-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

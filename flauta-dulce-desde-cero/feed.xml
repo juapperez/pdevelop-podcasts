@@ -3,7 +3,8 @@
   <channel>
     <title>Flauta dulce desde cero — de FlautaQuest</title>
     <link>https://pdevelop.net/</link>
-    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/flauta-dulce-desde-cero/feed.xml</itunes:new-feed-url>
+    <atom:link href="https://pdevelop-music-podcasts.pages.dev/flauta-dulce-desde-cero/feed.xml" rel="self" type="application/rss+xml" />
     <description>La flauta dulce soprano, paso a paso: conocer el instrumento, la postura y las manos, el aire y la lengua, tus primeras notas, leer música sencilla, más notas, tus primeras canciones y cómo practicar y cuidar la flauta. Cada episodio termina con práctica para hacer en casa. De FlautaQuest, la app que enseña flauta dulce soprano desde cero con lecciones cortas. Narrado con voz sintética.</description>
     <language>es</language>
     <copyright>© PDEVELOP</copyright>
@@ -12,7 +13,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/cover-3000x3000.jpg" />
+    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/flauta-dulce-desde-cero/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -21,7 +22,7 @@
     </itunes:category>
     <podcast:guid>38b406fb-fd3f-518f-9257-14a8f0c788e5</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
     <item>
       <title>Primeras canciones, práctica y cuidado</title>
       <description>Primeras canciones, práctica y cuidado. Primeras canciones: Juntándolo todo. Práctica y cuidado: Mejorar y mantener tu flauta sana.
@@ -31,14 +32,14 @@ Fuentes:
 - ebook gratuito «Flauta dulce desde cero», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep04.mp3" type="audio/mpeg" length="5935407" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep04.mp3" type="audio/mpeg" length="5935407" />
       <guid isPermaLink="false">flauta-dulce-desde-cero-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>371</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Leer música, y más notas</title>
@@ -48,14 +49,14 @@ Fuentes:
 - ebook gratuito «Flauta dulce desde cero», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep03.mp3" type="audio/mpeg" length="5842213" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep03.mp3" type="audio/mpeg" length="5842213" />
       <guid isPermaLink="false">flauta-dulce-desde-cero-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>365</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Aire, lengua y tus primeras notas</title>
@@ -65,14 +66,14 @@ Fuentes:
 - ebook gratuito «Flauta dulce desde cero», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep02.mp3" type="audio/mpeg" length="4855283" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep02.mp3" type="audio/mpeg" length="4855283" />
       <guid isPermaLink="false">flauta-dulce-desde-cero-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>303</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Conoce la flauta: postura y manos</title>
@@ -84,14 +85,14 @@ Fuentes:
 - ebook gratuito «Flauta dulce desde cero», capítulos usados en este episodio
 
 Narrado con voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep01.mp3" type="audio/mpeg" length="8082103" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep01.mp3" type="audio/mpeg" length="8082103" />
       <guid isPermaLink="false">flauta-dulce-desde-cero-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>505</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/flauta-dulce-desde-cero/flauta-dulce-desde-cero-es-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

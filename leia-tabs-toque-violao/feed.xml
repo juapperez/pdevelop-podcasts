@@ -3,7 +3,8 @@
   <channel>
     <title>Leia tabs, toque violão — do Fretbox</title>
     <link>https://pdevelop.net/</link>
-    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/leia-tabs-toque-violao/feed.xml</itunes:new-feed-url>
+    <atom:link href="https://pdevelop-music-podcasts.pages.dev/leia-tabs-toque-violao/feed.xml" rel="self" type="application/rss+xml" />
     <description>Tablatura e partitura para violão e guitarra, passo a passo: como se chamam as cordas e as casas, como ler tablatura e seus símbolos, a partitura que vem com a tab, o braço, os acordes abertos, as escalas e como praticar com tabs. Cada episódio termina com prática para fazer com o seu instrumento. Do Fretbox, o reprodutor de tabs para arquivos Guitar Pro e MusicXML. Narrado com voz sintética.</description>
     <language>pt-BR</language>
     <copyright>© PDEVELOP</copyright>
@@ -12,7 +13,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/cover-3000x3000.jpg" />
+    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/leia-tabs-toque-violao/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -21,7 +22,7 @@
     </itunes:category>
     <podcast:guid>18e93f4a-d293-5347-9584-821821594bdb</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
     <item>
       <title>Escalas, e praticar com tabs</title>
       <description>Escalas, e praticar com tabs. Escalas: As notas que combinam. Praticar com tabs: De ler uma música a tocá-la.
@@ -31,14 +32,14 @@ Fontes:
 - ebook gratuito «Leia tabs, toque violão», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep04.mp3" type="audio/mpeg" length="6390212" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep04.mp3" type="audio/mpeg" length="6390212" />
       <guid isPermaLink="false">leia-tabs-toque-violao-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>399</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>O braço e os acordes abertos</title>
@@ -48,14 +49,14 @@ Fontes:
 - ebook gratuito «Leia tabs, toque violão», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep03.mp3" type="audio/mpeg" length="5798455" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep03.mp3" type="audio/mpeg" length="5798455" />
       <guid isPermaLink="false">leia-tabs-toque-violao-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>362</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Os símbolos da tab e a partitura</title>
@@ -65,14 +66,14 @@ Fontes:
 - ebook gratuito «Leia tabs, toque violão», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep02.mp3" type="audio/mpeg" length="5881817" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep02.mp3" type="audio/mpeg" length="5881817" />
       <guid isPermaLink="false">leia-tabs-toque-violao-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>367</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Cordas, casas e a sua primeira tab</title>
@@ -83,14 +84,14 @@ Fontes:
 - ebook gratuito «Leia tabs, toque violão», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep01.mp3" type="audio/mpeg" length="7251063" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep01.mp3" type="audio/mpeg" length="7251063" />
       <guid isPermaLink="false">leia-tabs-toque-violao-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>453</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/leia-tabs-toque-violao/leia-tabs-toque-violao-pt-BR-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>

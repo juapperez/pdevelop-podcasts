@@ -3,7 +3,8 @@
   <channel>
     <title>Faça seus primeiros beats — do Monobox</title>
     <link>https://pdevelop.net/</link>
-    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>https://pdevelop-music-podcasts.pages.dev/faca-seus-primeiros-beats/feed.xml</itunes:new-feed-url>
+    <atom:link href="https://pdevelop-music-podcasts.pages.dev/faca-seus-primeiros-beats/feed.xml" rel="self" type="application/rss+xml" />
     <description>Baterias eletrônicas e ritmo, passo a passo: como um sequenciador por passos conta, o que cada som de bateria faz, seu primeiro beat, os ritmos clássicos de cada gênero, swing e groove, acentos e dinâmica, como moldar o som e como transformar um padrão numa faixa inteira. Cada episódio termina com algo para experimentar. Do Monobox, a bateria eletrônica e groovebox. Narrado com voz sintética.</description>
     <language>pt-BR</language>
     <copyright>© PDEVELOP</copyright>
@@ -12,7 +13,7 @@
       <itunes:name>PDEVELOP</itunes:name>
       <itunes:email>contact@pdevelop.net</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/cover-3000x3000.jpg" />
+    <itunes:image href="https://pdevelop-music-podcasts.pages.dev/faca-seus-primeiros-beats/cover-3000x3000.jpg" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Music" />
@@ -21,7 +22,7 @@
     </itunes:category>
     <podcast:guid>5827ae4a-744a-5566-92e4-c164c2470b1d</podcast:guid>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:12:55 GMT</lastBuildDate>
     <item>
       <title>Moldando o som, e do padrão à faixa</title>
       <description>Moldando o som, e do padrão à faixa. Moldando o som: Afinação, duração, camadas e equilíbrio. Do padrão à faixa: Variações, viradas e estrutura.
@@ -30,14 +31,14 @@ Fontes:
 - ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep04.mp3" type="audio/mpeg" length="6747538" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep04.mp3" type="audio/mpeg" length="6747538" />
       <guid isPermaLink="false">faca-seus-primeiros-beats-ep04</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
       <itunes:duration>422</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep04.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep04.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Swing, groove, acentos e dinâmica</title>
@@ -50,14 +51,14 @@ Fontes:
 - ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep03.mp3" type="audio/mpeg" length="6831336" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep03.mp3" type="audio/mpeg" length="6831336" />
       <guid isPermaLink="false">faca-seus-primeiros-beats-ep03</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
       <itunes:duration>427</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep03.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep03.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Seu primeiro beat, e ritmos por gênero</title>
@@ -69,14 +70,14 @@ Fontes:
 - ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep02.mp3" type="audio/mpeg" length="6000702" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep02.mp3" type="audio/mpeg" length="6000702" />
       <guid isPermaLink="false">faca-seus-primeiros-beats-ep02</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
       <itunes:duration>375</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep02.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep02.vtt" type="text/vtt" />
     </item>
     <item>
       <title>Como uma bateria eletrônica pensa, e a bateria numa caixa</title>
@@ -90,14 +91,14 @@ Fontes:
 - ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
 
 Narrado com voz sintética.</description>
-      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep01.mp3" type="audio/mpeg" length="8704649" />
+      <enclosure url="https://pdevelop-podcast-audio.web.app/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep01.mp3" type="audio/mpeg" length="8704649" />
       <guid isPermaLink="false">faca-seus-primeiros-beats-ep01</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
       <itunes:duration>544</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep01.vtt" type="text/vtt" />
+      <podcast:transcript url="https://pdevelop-music-podcasts.pages.dev/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep01.vtt" type="text/vtt" />
     </item>
   </channel>
 </rss>
