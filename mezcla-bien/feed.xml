@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Mezcla bien — de Mezcla</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Aprende a pinchar, una habilidad cada vez: el equipo y tus oídos, los tiempos y el tempo, el beatmatching, las frases, la mezcla armónica con la rueda Camelot, las transiciones, cómo armar un set y un plan de práctica de cuatro semanas. Con ejercicios para platos, CDJ, controladora o portátil. De Mezcla, la app para aprender a mezclar. Narrado con una voz sintética.</description>
+    <language>es</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>70d2ad42-95bb-55e2-9f20-e3ed75d2832a</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <item>
+      <title>De un tema al siguiente: transiciones, sets y un plan de cuatro semanas</title>
+      <description>De un tema al siguiente: transiciones, sets y un plan de cuatro semanas. Las transiciones: De un tema al siguiente. Armar un set: Energía, orden y leer la sala. Un plan de práctica: Treinta minutos al día durante cuatro semanas.
+
+Fuentes:
+- Texto: Mezcla, escrito para este libro. Traducido de la edición en inglés, Mix It Right.
+- Portada: Mezcla. La marca de la portada es provisional, hecha para este ebook.
+- Camelot y Mixed In Key son nombres de sus respectivos dueños; este libro no tiene relación con ellos.
+- ebook gratuito «Mezcla bien», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep04.mp3" type="audio/mpeg" length="7432018" />
+      <guid isPermaLink="false">mezcla-bien-ep04</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
+      <itunes:duration>464</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>En el sitio justo y en la tonalidad justa: frases y mezcla armónica</title>
+      <description>En el sitio justo y en la tonalidad justa: frases y mezcla armónica. Frases y estructura: Mezclar en el sitio justo. La mezcla armónica: Tonalidades que encajan.
+
+Fuentes:
+- Mixed In Key, "Camelot Wheel": https://mixedinkey.com/camelot-wheel/
+- Mixed In Key, "Interview with Mark Davis": https://mixedinkey.com/book/how-to-use-harmonic-mixing/interview-with-mark-davis/
+- Mixed In Key, "How to arrange a Dance Music track": https://mixedinkey.com/captain-plugins/wiki/how-to-arrange-a-dance-music-track/
+- Camelot y Mixed In Key son nombres de sus respectivos dueños; este libro no tiene relación con ellos.
+- ebook gratuito «Mezcla bien», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep03.mp3" type="audio/mpeg" length="6333517" />
+      <guid isPermaLink="false">mezcla-bien-ep03</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
+      <itunes:duration>396</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Contar hasta cuatro: tempo y beatmatching</title>
+      <description>Contar hasta cuatro: tempo y beatmatching. Tiempos y tempo: Contar hasta cuatro. El beatmatching: Dos temas, un solo ritmo.
+
+Fuentes:
+- Technics, instrucciones del SL-1200GR, control de pitch (rangos de ±8 % y ±16 %): https://www.manualslib.com/manual/1257916/Technics-Sl-1200gr.html?page=24
+- ebook gratuito «Mezcla bien», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep02.mp3" type="audio/mpeg" length="6345061" />
+      <guid isPermaLink="false">mezcla-bien-ep02</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
+      <itunes:duration>396</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>El equipo y tus oídos: platos, mezclador y auriculares</title>
+      <description>El equipo y tus oídos: platos, mezclador y auriculares. El equipo: Platos, mezclador y tus oídos.
+
+Fuentes:
+- National Institute on Deafness and Other Communication Disorders (NIDCD), "Noise-Induced Hearing Loss": https://www.nidcd.nih.gov/health/noise-induced-hearing-loss
+- ebook gratuito «Mezcla bien», capítulos usados en este episodio
+
+Narrado con voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep01.mp3" type="audio/mpeg" length="4997853" />
+      <guid isPermaLink="false">mezcla-bien-ep01</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
+      <itunes:duration>312</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/mezcla-bien/mezcla-bien-es-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>

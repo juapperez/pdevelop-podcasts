@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Play the Recorder from Zero — by FlautaQuest</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/feed.xml" rel="self" type="application/rss+xml" />
+    <description>The soprano recorder, one step at a time: meeting the instrument, posture and hands, breath and tongue, your first notes, reading simple music, more notes, your first songs, and how to practise and care for your recorder. Every episode ends with practice you can do at home. From FlautaQuest, the app that teaches the soprano recorder from zero in short lessons. Narrated with a synthetic voice.</description>
+    <language>en</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>3f3a134a-300d-5937-95c4-932486a937be</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <item>
+      <title>First songs, practice and care</title>
+      <description>First songs, practice and care. First songs: Putting it all together. Practice and care: Getting better and keeping your recorder healthy.
+
+Sources:
+- Wikipedia, “Ode to Joy” (the melody of the final movement of Beethoven’s Ninth Symphony, completed in 1824): https://en.wikipedia.org/wiki/Ode_to_Joy
+- free ebook “Play the Recorder from Zero”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep04.mp3" type="audio/mpeg" length="6045053" />
+      <guid isPermaLink="false">play-the-recorder-from-zero-ep04</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
+      <itunes:duration>378</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Reading music, and more notes</title>
+      <description>Reading music, and more notes. Reading music: Notes on the staff. More notes: Up and down from G.
+
+Sources:
+- Wikipedia, “Recorder (musical instrument)” (German fingering, early twentieth century, intonation problems; double holes for the two lowest holes; the thumb hole as an octave vent and “pinching”; “du” tonguing): https://en.wikipedia.org/wiki/Recorder_(musical_instrument)
+- American Recorder Society, “Fingering Chart for Soprano (or Tenor) Recorder”, baroque (English) fingering: https://americanrecorder.org/docs/Fingering_Chart_for_Soprano_Recorder.pdf
+- Macie Publishing, “The Difference Between Baroque and German Recorder Fingerings” (the simpler German F; sharps and flats harder on German recorders; B or G marking; most teachers use baroque): https://maciepublishing.com/baroque-vs-german/
+- Musicplay, “Soprano Recorder Fingerings – German/Baroque” (checking the simple F against a piano): https://store.musicplay.ca/pages/soprano-recorder-fingerings-german-baroque
+- free ebook “Play the Recorder from Zero”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep03.mp3" type="audio/mpeg" length="5863763" />
+      <guid isPermaLink="false">play-the-recorder-from-zero-ep03</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
+      <itunes:duration>366</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Breath, tongue and your first notes</title>
+      <description>Breath, tongue and your first notes. Breath and tongue: Making a good sound. Your first notes: B, A, G: Three notes, many songs.
+
+Sources:
+- free ebook “Play the Recorder from Zero”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep02.mp3" type="audio/mpeg" length="5039901" />
+      <guid isPermaLink="false">play-the-recorder-from-zero-ep02</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
+      <itunes:duration>315</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Meet the recorder: posture and hands</title>
+      <description>Meet the recorder: posture and hands. Meet the recorder: Parts, range and fingering systems. Posture and hands: Holding the recorder the right way.
+
+Sources:
+- Wikipedia, “Recorder (musical instrument)” (German fingering, early twentieth century, intonation problems; double holes for the two lowest holes; the thumb hole as an octave vent and “pinching”; “du” tonguing): https://en.wikipedia.org/wiki/Recorder_(musical_instrument)
+- American Recorder Society, “Fingering Chart for Soprano (or Tenor) Recorder”, baroque (English) fingering: https://americanrecorder.org/docs/Fingering_Chart_for_Soprano_Recorder.pdf
+- Macie Publishing, “The Difference Between Baroque and German Recorder Fingerings” (the simpler German F; sharps and flats harder on German recorders; B or G marking; most teachers use baroque): https://maciepublishing.com/baroque-vs-german/
+- Musicplay, “Soprano Recorder Fingerings – German/Baroque” (checking the simple F against a piano): https://store.musicplay.ca/pages/soprano-recorder-fingerings-german-baroque
+- free ebook “Play the Recorder from Zero”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep01.mp3" type="audio/mpeg" length="7861693" />
+      <guid isPermaLink="false">play-the-recorder-from-zero-ep01</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
+      <itunes:duration>491</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/play-the-recorder-from-zero/play-the-recorder-from-zero-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>

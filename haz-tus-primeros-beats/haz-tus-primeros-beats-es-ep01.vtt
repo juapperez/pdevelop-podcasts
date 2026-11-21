@@ -1,0 +1,209 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:05.912
+Esto es Haz tus primeros beats, de Monobox. Cajas de ritmos y ritmo, paso a paso.
+
+00:00:06.712 --> 00:00:10.272
+Hoy: cómo piensa una caja de ritmos y la batería en una caja.
+
+00:00:12.072 --> 00:00:12.955
+Antes de empezar.
+
+00:00:13.755 --> 00:00:33.540
+Todos los beats con los que alguna vez moviste la cabeza están hechos con unas pocas piezas simples: un bombo, una caja, unos hi-hats y la decisión de dónde ponerlos en el tiempo. Una caja de ritmos te deja tomar esas decisiones paso a paso, oír el resultado al instante y cambiarlo hasta que suene bien. No necesitas tocar la batería ni leer música para hacer un buen beat.
+
+00:00:34.340 --> 00:00:49.800
+El ebook te enseña cómo piensa una caja de ritmos, qué hace cada sonido de batería, cómo se construyen los ritmos clásicos de distintos géneros y cómo el swing, la dinámica y el diseño de sonido convierten un patrón rígido en un groove. Termina con cómo pasar de un patrón a un tema completo.
+
+00:00:51.300 --> 00:00:52.118
+Qué necesitas.
+
+00:00:52.918 --> 00:00:58.618
+Una caja de ritmos o groovebox, en app o en hardware, y audífonos o bocinas. Nada más.
+
+00:01:00.118 --> 00:01:01.583
+Cómo leer las cuadrículas.
+
+00:01:02.383 --> 00:01:20.641
+Los beats del ebook están escritos como cuadrículas de 16 pasos, un compás de cuatro tiempos. Cada fila es un sonido. Una x significa que el sonido suena en ese paso; un punto, silencio. La fila de arriba cuenta el compás como lo hacen los bateristas en inglés: 1 e y a, 2 e y a, etc.
+
+00:01:21.441 --> 00:01:23.193
+El ejemplo está escrito en el ebook.
+
+00:01:23.993 --> 00:01:26.937
+El capítulo 1 explica esta forma de contar con detalle.
+
+00:01:28.437 --> 00:01:29.463
+Cómo usar el ebook.
+
+00:01:30.263 --> 00:01:40.571
+Lee un capítulo cada vez y programa todas las cuadrículas que encuentres. Luego haz el apartado para practicar. Los beats se aprenden con los oídos y los dedos, no solo con los ojos.
+
+00:01:41.371 --> 00:01:50.963
+Consejo: Cuida tu oído. Las sesiones largas a mucho volumen, sobre todo con audífonos, pueden dañarlo para siempre. Trabaja a un nivel moderado y descansa.
+
+00:01:52.763 --> 00:01:56.808
+Cómo piensa una caja de ritmos. Pasos, patrones y tempo.
+
+00:01:57.608 --> 00:02:08.545
+Una caja de ritmos toca sonidos en momentos precisos. Para eso divide el tiempo en una cuadrícula. Cuando entiendes la cuadrícula, cualquier caja de ritmos, app o groovebox te resultará familiar.
+
+00:02:10.045 --> 00:02:11.252
+Tiempos y compases.
+
+00:02:12.052 --> 00:02:26.346
+Casi toda la música popular se cuenta en grupos de cuatro tiempos. Cada grupo de cuatro es un compás. Cuando marcas con el pie una canción, normalmente marcas los tiempos: 1, 2, 3, 4, 1, 2, 3, 4.
+
+00:02:27.846 --> 00:02:28.336
+Pasos.
+
+00:02:29.136 --> 00:02:47.599
+Un secuenciador por pasos divide cada compás en casillas iguales llamadas pasos. Lo más común son 16 pasos por compás: cuatro pasos por tiempo, así que cada paso es una semicorchea. En inglés, los bateristas cuentan esos cuatro pasos como 1 e y a (“one, ee, and, a”), y es la forma que usa el ebook:
+
+00:02:48.399 --> 00:02:54.194
+Los pasos 1, 5, 9 y 13 caen en los tiempos: 1, 2, 3, 4.
+
+00:02:54.994 --> 00:03:00.604
+Los pasos 3, 7, 11 y 15 caen a mitad de camino entre tiempos: el y, o “y”.
+
+00:03:01.404 --> 00:03:04.927
+Los demás pasos son las semicorcheas intermedias: la e y la a.
+
+00:03:05.727 --> 00:03:30.057
+La secuenciación por pasos viene de lejos. La Roland TR-808 Rhythm Composer, presentada en 1980, se programaba con un secuenciador por pasos, y sus sonidos se generaban con circuitos analógicos, no con grabaciones. Solo se fabricaron unas 12.000 antes de que se dejara de producir en 1983, y aun así llegó a ser uno de los sonidos que definen el hip-hop y la música electrónica de baile.
+
+00:03:31.557 --> 00:03:32.172
+Patrones.
+
+00:03:32.972 --> 00:03:44.481
+Un patrón es uno o más compases de pasos que se repiten en bucle. Programas un patrón, la máquina lo repite y tú sigues poniendo y quitando pasos mientras suena. Más adelante encadenas patrones para hacer un tema.
+
+00:03:45.981 --> 00:03:46.417
+Tempo.
+
+00:03:47.217 --> 00:03:58.215
+El tempo se mide en pulsaciones por minuto (BPM, por sus siglas en inglés). A 120 BPM hay dos tiempos por segundo. Con un poco de aritmética sabes cuánto dura cada paso:
+
+00:03:59.015 --> 00:04:06.085
+Un tiempo dura 60.000 ms divididos entre los BPM. A 120 BPM, son 500 ms.
+
+00:04:06.885 --> 00:04:13.168
+Un paso, una semicorchea, es la cuarta parte: 125 ms a 120 BPM.
+
+00:04:13.968 --> 00:04:21.904
+No necesitas los números para hacer beats, pero explican por qué los tempos rápidos se sienten cargados: los mismos 16 pasos pasan en menos tiempo.
+
+00:04:22.704 --> 00:04:33.013
+Consejo: Empieza cada beat nuevo a un tempo medio, entre 90 y 120 BPM. Es más fácil oír qué hace cada paso. Siempre puedes cambiar el tempo después.
+
+00:04:34.513 --> 00:04:35.273
+Para practicar.
+
+00:04:36.073 --> 00:04:41.236
+Primero: pon tu caja de ritmos a 120 BPM, con un patrón de 16 pasos.
+
+00:04:42.036 --> 00:04:49.507
+Segundo: pon un bombo en los pasos 1, 5, 9 y 13. Cuenta 1, 2, 3, 4 a la vez.
+
+00:04:50.307 --> 00:04:58.202
+Tercero: mueve el bombo a los pasos 3, 7, 11 y 15. Di y cada vez que suene. Escucha cómo cambia la sensación.
+
+00:04:59.002 --> 00:05:04.902
+Cuarto: cambia el tempo a 90 BPM y luego a 140 BPM, sin tocar los pasos.
+
+00:05:06.702 --> 00:05:09.587
+La batería en una caja. Qué hace cada sonido.
+
+00:05:10.387 --> 00:05:18.910
+Una caja de ritmos es una batería que puedes programar. Cada sonido tiene una función en el beat. Conocerlas te ayuda a decidir dónde poner cada uno.
+
+00:05:20.410 --> 00:05:20.979
+El bombo.
+
+00:05:21.779 --> 00:05:35.106
+El bombo (kick) es el sonido más grave y pesado. Marca los puntos fuertes del beat y lleva casi toda la energía en los sistemas de sonido grandes. En la música de baile suele sonar en cada tiempo; en el hip-hop toca un ritmo más variado.
+
+00:05:36.606 --> 00:05:37.659
+La caja y el clap.
+
+00:05:38.459 --> 00:05:58.134
+La caja o tarola (snare) es un golpe seco y brillante. En la mayoría de los estilos populares suena en los tiempos 2 y 4, el backbeat o contratiempo fuerte. Es lo que te hace aplaudir siguiendo la música. El clap, una ráfaga de palmas cortas, cumple la misma función con otro color, y a menudo se superpone a la caja o se usa en su lugar.
+
+00:05:59.634 --> 00:06:00.468
+Los hi-hats.
+
+00:06:01.268 --> 00:06:20.407
+El hi-hat cerrado es un tic corto y apretado. Suele llevar el tiempo, en corcheas o en semicorcheas, y decide qué tan cargado se siente el beat. El hi-hat abierto es más largo y chisporrotea. En muchas cajas de ritmos, el hat cerrado corta al abierto, igual que en una batería real, donde cerrar el hi-hat lo hace dejar de sonar.
+
+00:06:21.907 --> 00:06:23.712
+Toms, platillos y percusión.
+
+00:06:24.512 --> 00:06:30.215
+Toms: tambores afinados, agudo, medio y grave, que se usan sobre todo para los redobles.
+
+00:06:31.015 --> 00:06:34.610
+Crash: un platillo fuerte que marca el comienzo de una sección nueva.
+
+00:06:35.410 --> 00:06:39.632
+Ride: un platillo para llevar el tiempo con un sonido más abierto que el hi-hat.
+
+00:06:40.432 --> 00:06:47.571
+Percusión: aro (rim shot), cencerro, shaker, conga, pandereta y más. Aportan color y movimiento.
+
+00:06:49.071 --> 00:06:50.843
+Agudo, medio, grave.
+
+00:06:51.643 --> 00:07:05.593
+Una forma útil de pensar un beat: el bombo ocupa los graves, la caja y el clap los medios, y los hats y platillos los agudos. Un beat que tiene algo en cada zona suena lleno. Si dos sonidos de la misma zona suenan siempre a la vez, se estorban.
+
+00:07:06.393 --> 00:07:15.080
+Consejo: Conoce tu batería antes de escribir beats. Escucha cada sonido por separado y ajusta su volumen para que ninguno quede muy por encima de los demás.
+
+00:07:16.580 --> 00:07:17.340
+Para practicar.
+
+00:07:18.140 --> 00:07:24.208
+Primero: toca cada sonido de tu batería, uno a uno. Di qué función crees que podría cumplir cada uno.
+
+00:07:25.008 --> 00:07:31.226
+Segundo: haz un patrón solo con hi-hats cerrados, uno sí y uno no. Luego pruébalo en todos los pasos.
+
+00:07:32.026 --> 00:07:36.559
+Tercero: añade una caja en los pasos 5 y 13. Eso es el backbeat.
+
+00:07:37.359 --> 00:07:41.104
+Cuarto: cambia la caja por un clap, y luego prueba los dos juntos.
+
+00:07:42.904 --> 00:07:43.929
+Eso es todo por hoy.
+
+00:07:44.729 --> 00:07:45.611
+Si quieres seguir:
+
+00:07:46.411 --> 00:07:55.048
+Monobox es la app detrás de este ebook. Es una caja de ritmos y groovebox: un lugar para hacer beats, paso a paso, y convertirlos en grooves.
+
+00:07:55.848 --> 00:07:58.990
+Todo lo que enseña el ebook está pensado para probarlo con ella:
+
+00:07:59.790 --> 00:08:02.196
+programar patrones en una cuadrícula de pasos.
+
+00:08:02.996 --> 00:08:05.041
+saber qué hace cada sonido de batería.
+
+00:08:05.841 --> 00:08:08.129
+construir los ritmos clásicos de cada género.
+
+00:08:08.929 --> 00:08:11.587
+añadir swing, dinámica y diseño de sonido.
+
+00:08:12.387 --> 00:08:14.394
+convertir un patrón en un tema completo.
+
+00:08:15.194 --> 00:08:19.865
+Este ebook es gratis. Compártelo con cualquiera que quiera hacer sus primeros beats.
+
+00:08:20.665 --> 00:08:24.374
+Este episodio de Haz tus primeros beats se ha narrado con una voz sintética.
+

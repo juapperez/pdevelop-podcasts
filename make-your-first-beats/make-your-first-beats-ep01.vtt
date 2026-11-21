@@ -1,0 +1,209 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:06.318
+This is Make Your First Beats, by Monobox. Drum machines and rhythm, one step at a time.
+
+00:00:07.118 --> 00:00:10.428
+Today: how a drum machine thinks and the kit in a box.
+
+00:00:12.228 --> 00:00:13.227
+Before you start.
+
+00:00:14.027 --> 00:00:34.348
+Every beat you have ever nodded your head to is built from a few simple parts: a kick, a snare, some hi-hats, and the choice of where to put them in time. A drum machine lets you make those choices one step at a time, hear the result straight away, and change it until it feels right. You do not need to play the drums, or read music, to make a good beat.
+
+00:00:35.148 --> 00:00:50.392
+The ebook shows you how a drum machine thinks, what each drum sound does, how the classic rhythms of different genres are built, and how swing, dynamics and sound design turn a stiff pattern into a groove. It ends with how to turn a pattern into a whole track.
+
+00:00:51.892 --> 00:00:52.608
+What you need.
+
+00:00:53.408 --> 00:01:00.022
+A drum machine or groovebox, in an app or in hardware, and headphones or speakers. That is all.
+
+00:01:01.522 --> 00:01:02.774
+How to read the grids.
+
+00:01:03.574 --> 00:01:21.186
+The beats in the ebook are written as grids of 16 steps, one bar of four beats. Each row is a sound. An x means the sound plays on that step; a dot means silence. The top row counts the beat the way drummers do: 1 e and a, 2 e and a and so on.
+
+00:01:21.986 --> 00:01:24.040
+The example is written out in the ebook.
+
+00:01:24.840 --> 00:01:27.363
+Chapter 1 explains this counting in detail.
+
+00:01:28.863 --> 00:01:30.096
+How to use the ebook.
+
+00:01:30.896 --> 00:01:40.779
+Read one chapter at a time, and program every grid you find in it. Then do the practice section. Beats are learned with your ears and your fingers, not only your eyes.
+
+00:01:41.579 --> 00:01:51.416
+Tip: Protect your hearing. Long sessions at high volume, especially on headphones, can damage it for good. Work at a moderate level, and take breaks.
+
+00:01:53.216 --> 00:01:57.325
+How a drum machine thinks. Steps, patterns and tempo.
+
+00:01:58.125 --> 00:02:09.977
+A drum machine plays sounds at precise moments in time. To do that, it divides time into a grid. Once you understand the grid, every drum machine, app or groovebox will feel familiar.
+
+00:02:11.477 --> 00:02:12.657
+Beats and bars.
+
+00:02:13.457 --> 00:02:28.039
+Most popular music is counted in groups of four beats. Each group of four is a bar. When you tap your foot to a song, you are usually tapping the beats: 1, 2, 3, 4, 1, 2, 3, 4.
+
+00:02:29.539 --> 00:02:30.238
+Steps.
+
+00:02:31.038 --> 00:02:47.547
+A step sequencer splits each bar into equal slots called steps. The most common choice is 16 steps per bar: four steps per beat, so each step is a sixteenth note. Drummers count those four steps as 1 e and a (“one, ee, and, a”):
+
+00:02:48.347 --> 00:02:55.125
+Steps 1, 5, 9 and 13 fall on the beats: 1, 2, 3, 4.
+
+00:02:55.925 --> 00:03:02.605
+Steps 3, 7, 11 and 15 fall halfway between beats: the and, or “and”.
+
+00:03:03.405 --> 00:03:07.026
+The other steps are the in-between sixteenths: the e and the a.
+
+00:03:07.826 --> 00:03:30.478
+Step sequencing goes back a long way. Roland’s TR-808 Rhythm Composer, introduced in 1980, was programmed with a step sequencer, and its sounds were made with analog circuits, not recordings. Only about 12,000 were made before it was discontinued in 1983, yet it went on to become one of the defining sounds of hip-hop and of electronic dance music.
+
+00:03:31.978 --> 00:03:32.715
+Patterns.
+
+00:03:33.515 --> 00:03:45.231
+A pattern is one or more bars of steps that loop. You program a pattern, the machine repeats it, and you keep adding and removing steps while it plays. Later you chain patterns together to make a song.
+
+00:03:46.731 --> 00:03:47.298
+Tempo.
+
+00:03:48.098 --> 00:03:58.362
+Tempo is measured in beats per minute (BPM). At 120 BPM there are two beats every second. A little arithmetic tells you how long each step lasts:
+
+00:03:59.162 --> 00:04:07.510
+One beat lasts 60,000 ms divided by the BPM. At 120 BPM, that is 500 ms.
+
+00:04:08.310 --> 00:04:15.216
+One step, a sixteenth, is a quarter of that: 125 ms at 120 BPM.
+
+00:04:16.016 --> 00:04:23.532
+You do not need the numbers to make beats, but they explain why fast tempos feel busy: the same 16 steps go by in less time.
+
+00:04:24.332 --> 00:04:35.222
+Tip: Start each new beat at a medium tempo, around 90 to 120 BPM. It is easier to hear what each step does. You can always change the tempo later.
+
+00:04:36.722 --> 00:04:37.463
+Practice.
+
+00:04:38.263 --> 00:04:43.561
+First: set your drum machine to 120 BPM, with a 16-step pattern.
+
+00:04:44.361 --> 00:04:52.654
+Second: put a kick on steps 1, 5, 9 and 13. Count 1, 2, 3, 4 along with it.
+
+00:04:53.454 --> 00:05:02.223
+Third: move the kick to steps 3, 7, 11 and 15. Count and each time it plays. Hear how the feel changes.
+
+00:05:03.023 --> 00:05:09.645
+Fourth: change the tempo to 90 BPM and then to 140 BPM, without changing the steps.
+
+00:05:11.445 --> 00:05:14.486
+The kit in a box. What each sound does.
+
+00:05:15.286 --> 00:05:23.549
+A drum machine is a drum kit you can program. Each sound has a job in the beat. Knowing those jobs helps you decide where to put each one.
+
+00:05:25.049 --> 00:05:25.645
+The kick.
+
+00:05:26.445 --> 00:05:40.547
+The kick, or bass drum, is the lowest and heaviest sound. It marks the strong points of the beat and carries most of the energy on big speakers. In dance music it often plays on every beat; in hip-hop it plays a more varied rhythm.
+
+00:05:42.047 --> 00:05:43.378
+The snare and the clap.
+
+00:05:44.178 --> 00:06:01.160
+The snare is a sharp, bright crack. In most popular styles it plays on beats 2 and 4, the backbeat. That is what makes you clap along. The clap, a burst of short hand claps, does the same job with a different colour, and is often layered with the snare or used instead of it.
+
+00:06:02.660 --> 00:06:03.625
+The hi-hats.
+
+00:06:04.425 --> 00:06:23.687
+The closed hi-hat is a short, tight tick. It usually keeps time, in eighth notes or sixteenth notes, and it sets how busy the beat feels. The open hi-hat is longer and sizzles. On many drum machines, a closed hat cuts off an open one, just as on a real kit, where closing the hat stops it ringing.
+
+00:06:25.187 --> 00:06:27.325
+Toms, cymbals and percussion.
+
+00:06:28.125 --> 00:06:32.992
+Toms: pitched drums, high, mid and low, mostly used for fills.
+
+00:06:33.792 --> 00:06:37.354
+Crash: a loud cymbal that marks the start of a new section.
+
+00:06:38.154 --> 00:06:42.230
+Ride: a cymbal for keeping time with a more open sound than the hi-hat.
+
+00:06:43.030 --> 00:06:50.719
+Percussion: rim shot, cowbell, shaker, conga, tambourine and more. These add colour and movement.
+
+00:06:52.219 --> 00:06:53.889
+High, middle, low.
+
+00:06:54.689 --> 00:07:10.475
+A useful way to think about a beat: the kick holds the low end, the snare and clap the middle, and the hats and cymbals the high end. A beat that has something in each range sounds full. If two sounds in the same range play at the same time all the time, they fight each other.
+
+00:07:11.275 --> 00:07:20.205
+Tip: Learn your kit before you write beats. Go through every sound on its own, and adjust its level so that no single sound is far louder than the others.
+
+00:07:21.705 --> 00:07:22.446
+Practice.
+
+00:07:23.246 --> 00:07:29.408
+First: play every sound in your kit, one at a time. Say what job you think each one could do.
+
+00:07:30.208 --> 00:07:36.079
+Second: make a pattern with only closed hi-hats on every other step. Then try every step.
+
+00:07:36.879 --> 00:07:41.597
+Third: add a snare on steps 5 and 13. That is the backbeat.
+
+00:07:42.397 --> 00:07:46.286
+Fourth: swap the snare for a clap, then try both together.
+
+00:07:48.086 --> 00:07:49.175
+That's all for today.
+
+00:07:49.975 --> 00:07:51.200
+If you want to keep going:
+
+00:07:52.000 --> 00:08:00.935
+Monobox is the app behind the ebook. It is a drum machine and groovebox: a place to make beats, step by step, and turn them into grooves.
+
+00:08:01.735 --> 00:08:04.577
+Everything the ebook teaches is meant to be tried with it:
+
+00:08:05.377 --> 00:08:07.359
+programming patterns on a step grid.
+
+00:08:08.159 --> 00:08:10.291
+knowing what each drum sound does.
+
+00:08:11.091 --> 00:08:13.401
+building the classic rhythms of each genre.
+
+00:08:14.201 --> 00:08:17.091
+adding swing, dynamics and sound design.
+
+00:08:17.891 --> 00:08:19.824
+turning a pattern into a whole track.
+
+00:08:20.624 --> 00:08:25.155
+This ebook is free. Share it with anyone who wants to make their first beats.
+
+00:08:25.955 --> 00:08:29.929
+This episode of Make Your First Beats was narrated with a synthetic voice.
+

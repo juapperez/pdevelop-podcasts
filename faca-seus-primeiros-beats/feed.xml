@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Faça seus primeiros beats — do Monobox</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Baterias eletrônicas e ritmo, passo a passo: como um sequenciador por passos conta, o que cada som de bateria faz, seu primeiro beat, os ritmos clássicos de cada gênero, swing e groove, acentos e dinâmica, como moldar o som e como transformar um padrão numa faixa inteira. Cada episódio termina com algo para experimentar. Do Monobox, a bateria eletrônica e groovebox. Narrado com voz sintética.</description>
+    <language>pt-BR</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>5827ae4a-744a-5566-92e4-c164c2470b1d</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <item>
+      <title>Moldando o som, e do padrão à faixa</title>
+      <description>Moldando o som, e do padrão à faixa. Moldando o som: Afinação, duração, camadas e equilíbrio. Do padrão à faixa: Variações, viradas e estrutura.
+
+Fontes:
+- ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep04.mp3" type="audio/mpeg" length="6747538" />
+      <guid isPermaLink="false">faca-seus-primeiros-beats-ep04</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
+      <itunes:duration>422</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Swing, groove, acentos e dinâmica</title>
+      <description>Swing, groove, acentos e dinâmica. Swing e groove: Por que alguns beats fazem você se mexer. Acentos e dinâmica: Forte, fraco e tudo no meio.
+
+Fontes:
+- iZotope, “Using different tempos to make beats for different genres” (hip-hop 85–95, house 115–130, techno 120–125, dubstep 140 com sensação de half-time em 70, drum and bass 174 BPM): https://www.izotope.com/en/learn/using-different-tempos-to-make-beats-for-different-genres.html
+- A duração de passos e tempos é calculada a partir do andamento: um tempo dura 60.000 ms divididos pelo BPM.
+- Attack Magazine, “Roger Linn On Swing, Groove &amp; The Magic Of The MPC’s Timing” (swing na LM-1 em 1979; 50% sem swing, 66% swing de tercina perfeita, ajustes úteis até cerca de 70%, perto de 54% para uma sensação leve): https://www.attackmagazine.com/features/interview/roger-linn-swing-groove-magic-mpc-timing/
+- ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep03.mp3" type="audio/mpeg" length="6831336" />
+      <guid isPermaLink="false">faca-seus-primeiros-beats-ep03</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
+      <itunes:duration>427</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Seu primeiro beat, e ritmos por gênero</title>
+      <description>Seu primeiro beat, e ritmos por gênero. Seu primeiro beat: Construindo um padrão, camada por camada. Ritmos por gênero: Os padrões por trás dos estilos.
+
+Fontes:
+- iZotope, “Using different tempos to make beats for different genres” (hip-hop 85–95, house 115–130, techno 120–125, dubstep 140 com sensação de half-time em 70, drum and bass 174 BPM): https://www.izotope.com/en/learn/using-different-tempos-to-make-beats-for-different-genres.html
+- A duração de passos e tempos é calculada a partir do andamento: um tempo dura 60.000 ms divididos pelo BPM.
+- ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep02.mp3" type="audio/mpeg" length="6000702" />
+      <guid isPermaLink="false">faca-seus-primeiros-beats-ep02</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
+      <itunes:duration>375</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Como uma bateria eletrônica pensa, e a bateria numa caixa</title>
+      <description>Como uma bateria eletrônica pensa, e a bateria numa caixa. Como uma bateria eletrônica pensa: Passos, padrões e andamento. A bateria numa caixa: O que cada som faz.
+
+Fontes:
+- Roland, “TR-808” (lançada em 1980, síntese analógica em vez de samples, cerca de 12.000 unidades fabricadas, fora de linha em 1983): https://www.roland.com/us/products/rc_tr-808/
+- Wikipedia, “Roland TR-808” (sequenciador por passos; influência no hip-hop e na música eletrônica de pista): https://en.wikipedia.org/wiki/Roland_TR-808
+- iZotope, “Using different tempos to make beats for different genres” (hip-hop 85–95, house 115–130, techno 120–125, dubstep 140 com sensação de half-time em 70, drum and bass 174 BPM): https://www.izotope.com/en/learn/using-different-tempos-to-make-beats-for-different-genres.html
+- A duração de passos e tempos é calculada a partir do andamento: um tempo dura 60.000 ms divididos pelo BPM.
+- ebook gratuito «Faça seus primeiros beats», capítulos usados neste episódio
+
+Narrado com voz sintética.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep01.mp3" type="audio/mpeg" length="8704649" />
+      <guid isPermaLink="false">faca-seus-primeiros-beats-ep01</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
+      <itunes:duration>544</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/faca-seus-primeiros-beats/faca-seus-primeiros-beats-pt-BR-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>

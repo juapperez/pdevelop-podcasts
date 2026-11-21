@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Read Tabs, Play Guitar — by Fretbox</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Guitar tab and notation, one step at a time: how the strings and frets are named, how to read tablature and its symbols, the standard notation that comes with tab, the fretboard, open chords, scales and how to practise with tabs. Every episode ends with practice you can do with your guitar. From Fretbox, the tab player for Guitar Pro and MusicXML files. Narrated with a synthetic voice.</description>
+    <language>en</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>bbfcbe62-4ea4-5a7f-8b53-866d8c1f3196</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <item>
+      <title>Scales, and practising with tabs</title>
+      <description>Scales, and practising with tabs. Scales: The notes that belong together. Practising with tabs: From reading a song to playing it.
+
+Sources:
+- Guitar Pro, home page (tablature editor and reader, by Arobas Music): https://www.guitar-pro.com/
+- free ebook “Read Tabs, Play Guitar”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep04.mp3" type="audio/mpeg" length="6263039" />
+      <guid isPermaLink="false">read-tabs-play-guitar-ep04</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
+      <itunes:duration>391</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>The fretboard and open chords</title>
+      <description>The fretboard and open chords. The fretboard: Finding the notes. Open chords: The shapes behind thousands of songs.
+
+Sources:
+- free ebook “Read Tabs, Play Guitar”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep03.mp3" type="audio/mpeg" length="5796233" />
+      <guid isPermaLink="false">read-tabs-play-guitar-ep03</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
+      <itunes:duration>362</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Tab symbols and standard notation</title>
+      <description>Tab symbols and standard notation. Tab symbols: Slides, bends, hammer-ons and more. Standard notation for guitar: The staff above the tab.
+
+Sources:
+- Guitar Pro, home page (tablature editor and reader, by Arobas Music): https://www.guitar-pro.com/
+- free ebook “Read Tabs, Play Guitar”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep02.mp3" type="audio/mpeg" length="5682149" />
+      <guid isPermaLink="false">read-tabs-play-guitar-ep02</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
+      <itunes:duration>355</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Strings, frets and your first tab</title>
+      <description>Strings, frets and your first tab. Strings and frets: How the guitar is laid out. Reading tablature: Six lines and some numbers.
+
+Sources:
+- Guitar Pro, home page (tablature editor and reader, by Arobas Music): https://www.guitar-pro.com/
+- free ebook “Read Tabs, Play Guitar”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep01.mp3" type="audio/mpeg" length="7070789" />
+      <guid isPermaLink="false">read-tabs-play-guitar-ep01</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
+      <itunes:duration>442</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/read-tabs-play-guitar/read-tabs-play-guitar-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>

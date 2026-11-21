@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Make Your First Beats — by Monobox</title>
+    <link>https://pdevelop.net/</link>
+    <atom:link href="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Drum machines and rhythm, one step at a time: how a step sequencer counts, what each drum sound does, your first beat, the classic rhythms of each genre, swing and groove, accents and dynamics, shaping the sound and turning a pattern into a whole track. Every episode ends with something to try. From Monobox, the drum machine and groovebox. Narrated with a synthetic voice.</description>
+    <language>en</language>
+    <copyright>© PDEVELOP</copyright>
+    <itunes:author>PDEVELOP</itunes:author>
+    <itunes:owner>
+      <itunes:name>PDEVELOP</itunes:name>
+      <itunes:email>contact@pdevelop.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/cover-3000x3000.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <podcast:guid>bac56761-4d29-5e4f-9218-787c86219c01</podcast:guid>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:54 GMT</lastBuildDate>
+    <item>
+      <title>Shaping the sound, and from pattern to song</title>
+      <description>Shaping the sound, and from pattern to song. Shaping the sound: Tune, length, layers and balance. From pattern to song: Variations, fills and arrangement.
+
+Sources:
+- Mixed In Key, “How to arrange a Dance Music track”: https://mixedinkey.com/captain-plugins/wiki/how-to-arrange-a-dance-music-track/
+- free ebook “Make Your First Beats”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep04.mp3" type="audio/mpeg" length="6221884" />
+      <guid isPermaLink="false">make-your-first-beats-ep04</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:52 GMT</pubDate>
+      <itunes:duration>389</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep04.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Swing, groove, accents and dynamics</title>
+      <description>Swing, groove, accents and dynamics. Swing and groove: Why some beats make you move. Accents and dynamics: Loud, soft and in between.
+
+Sources:
+- iZotope, “Using different tempos to make beats for different genres” (hip-hop 85–95, house 115–130, techno 120–125, dubstep 140 with a half-time feel at 70, drum and bass 174 BPM): https://www.izotope.com/en/learn/using-different-tempos-to-make-beats-for-different-genres.html
+- Step and beat lengths are calculated from the tempo: one beat lasts 60,000 ms divided by the BPM.
+- Attack Magazine, “Roger Linn On Swing, Groove &amp; The Magic Of The MPC’s Timing” (swing on the LM-1 in 1979; 50% no swing, 66% perfect triplet swing, useful settings up to about 70%, around 54% for a light feel): https://www.attackmagazine.com/features/interview/roger-linn-swing-groove-magic-mpc-timing/
+- free ebook “Make Your First Beats”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep03.mp3" type="audio/mpeg" length="6227990" />
+      <guid isPermaLink="false">make-your-first-beats-ep03</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:51 GMT</pubDate>
+      <itunes:duration>389</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep03.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>Your first beat, and rhythms by genre</title>
+      <description>Your first beat, and rhythms by genre. Your first beat: Building a pattern, layer by layer. Rhythms by genre: The patterns behind the styles.
+
+Sources:
+- iZotope, “Using different tempos to make beats for different genres” (hip-hop 85–95, house 115–130, techno 120–125, dubstep 140 with a half-time feel at 70, drum and bass 174 BPM): https://www.izotope.com/en/learn/using-different-tempos-to-make-beats-for-different-genres.html
+- Step and beat lengths are calculated from the tempo: one beat lasts 60,000 ms divided by the BPM.
+- free ebook “Make Your First Beats”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep02.mp3" type="audio/mpeg" length="5688692" />
+      <guid isPermaLink="false">make-your-first-beats-ep02</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:50 GMT</pubDate>
+      <itunes:duration>355</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep02.vtt" type="text/vtt" />
+    </item>
+    <item>
+      <title>How a drum machine thinks, and the kit in a box</title>
+      <description>How a drum machine thinks, and the kit in a box. How a drum machine thinks: Steps, patterns and tempo. The kit in a box: What each sound does.
+
+Sources:
+- Roland, “TR-808” (introduced in 1980, analog synthesis instead of samples, about 12,000 units made, discontinued in 1983): https://www.roland.com/us/products/rc_tr-808/
+- Wikipedia, “Roland TR-808” (step sequencer; influence on hip-hop and electronic dance music): https://en.wikipedia.org/wiki/Roland_TR-808
+- iZotope, “Using different tempos to make beats for different genres” (hip-hop 85–95, house 115–130, techno 120–125, dubstep 140 with a half-time feel at 70, drum and bass 174 BPM): https://www.izotope.com/en/learn/using-different-tempos-to-make-beats-for-different-genres.html
+- Step and beat lengths are calculated from the tempo: one beat lasts 60,000 ms divided by the BPM.
+- free ebook “Make Your First Beats”, chapters used in this episode
+
+Narrated with a synthetic voice.</description>
+      <enclosure url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep01.mp3" type="audio/mpeg" length="8174381" />
+      <guid isPermaLink="false">make-your-first-beats-ep01</guid>
+      <pubDate>Sat, 21 Nov 2026 00:47:49 GMT</pubDate>
+      <itunes:duration>511</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://juapperez.github.io/pdevelop-podcasts/make-your-first-beats/make-your-first-beats-ep01.vtt" type="text/vtt" />
+    </item>
+  </channel>
+</rss>

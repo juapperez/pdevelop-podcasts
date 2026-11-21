@@ -1,0 +1,209 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:06.890
+Este é o Faça seus primeiros beats, do Monobox. Baterias eletrônicas e ritmo, passo a passo.
+
+00:00:07.690 --> 00:00:11.608
+Hoje: como uma bateria eletrônica pensa e A bateria numa caixa.
+
+00:00:13.408 --> 00:00:14.624
+Antes de começar.
+
+00:00:15.424 --> 00:00:36.221
+Todos os beats que já fizeram você balançar a cabeça são feitos de poucas peças simples: um bumbo, uma caixa, alguns chimbais e a decisão de onde colocá-los no tempo. Uma bateria eletrônica deixa você tomar essas decisões passo a passo, ouvir o resultado na hora e mudar até soar bem. Você não precisa tocar bateria nem ler partitura para fazer um bom beat.
+
+00:00:37.021 --> 00:00:53.282
+O ebook mostra como uma bateria eletrônica pensa, o que cada som de bateria faz, como são construídos os ritmos clássicos de vários gêneros e como o swing, a dinâmica e o design de som transformam um padrão duro num groove. Termina com como passar de um padrão para uma faixa inteira.
+
+00:00:54.782 --> 00:00:56.122
+Do que você precisa.
+
+00:00:56.922 --> 00:01:04.126
+Uma bateria eletrônica ou groovebox, em app ou em hardware, e fones de ouvido ou caixas de som. Só isso.
+
+00:01:05.626 --> 00:01:06.926
+Como ler as grades.
+
+00:01:07.726 --> 00:01:26.644
+Os beats do ebook estão escritos como grades de 16 passos, um compasso de quatro tempos. Cada linha é um som. Um x quer dizer que o som toca naquele passo; um ponto, silêncio. A linha de cima conta o compasso como os bateristas fazem em inglês: 1 e e a, 2 e e a e assim por diante.
+
+00:01:27.444 --> 00:01:29.443
+O exemplo está escrito no ebook.
+
+00:01:30.243 --> 00:01:32.875
+O capítulo 1 explica essa contagem em detalhe.
+
+00:01:34.375 --> 00:01:35.674
+Como usar o ebook.
+
+00:01:36.474 --> 00:01:47.339
+Leia um capítulo por vez e programe todas as grades que encontrar. Depois faça a seção para praticar. Beats se aprendem com os ouvidos e os dedos, não só com os olhos.
+
+00:01:48.139 --> 00:01:59.628
+Dica: Proteja sua audição. Sessões longas em volume alto, principalmente com fones, podem danificá-la para sempre. Trabalhe num volume moderado e faça pausas.
+
+00:02:01.428 --> 00:02:06.002
+Como uma bateria eletrônica pensa. Passos, padrões e andamento.
+
+00:02:06.802 --> 00:02:18.821
+Uma bateria eletrônica toca sons em momentos precisos. Para isso, divide o tempo numa grade. Quando você entende a grade, qualquer bateria eletrônica, app ou groovebox fica familiar.
+
+00:02:20.321 --> 00:02:21.640
+Tempos e compassos.
+
+00:02:22.440 --> 00:02:37.181
+Quase toda a música popular é contada em grupos de quatro tempos. Cada grupo de quatro é um compasso. Quando você bate o pé numa música, normalmente marca os tempos: 1, 2, 3, 4, 1, 2, 3, 4.
+
+00:02:38.681 --> 00:02:39.243
+Passos.
+
+00:02:40.043 --> 00:03:00.600
+Um sequenciador por passos divide cada compasso em casas iguais chamadas passos. O mais comum são 16 passos por compasso: quatro passos por tempo, então cada passo é uma semicolcheia. Em inglês, os bateristas contam esses quatro passos como 1 e e a (“one, ee, and, a”), e é essa a forma usada no ebook:
+
+00:03:01.400 --> 00:03:07.231
+Os passos 1, 5, 9 e 13 caem nos tempos: 1, 2, 3, 4.
+
+00:03:08.031 --> 00:03:14.043
+Os passos 3, 7, 11 e 15 caem no meio do caminho entre os tempos: o e, ou “e”.
+
+00:03:14.843 --> 00:03:19.077
+Os outros passos são as semicolcheias intermediárias: o e e o a.
+
+00:03:19.877 --> 00:03:46.519
+O sequenciamento por passos vem de longe. A Roland TR-808 Rhythm Composer, lançada em 1980, era programada com um sequenciador por passos, e seus sons eram gerados por circuitos analógicos, não por gravações. Só cerca de 12.000 unidades foram fabricadas antes de ela sair de linha em 1983, e mesmo assim ela se tornou um dos sons que definem o hip-hop e a música eletrônica de pista.
+
+00:03:48.019 --> 00:03:48.683
+Padrões.
+
+00:03:49.483 --> 00:04:02.498
+Um padrão é um ou mais compassos de passos que se repetem em loop. Você programa um padrão, a máquina repete e você continua pondo e tirando passos enquanto ele toca. Depois você encadeia padrões para fazer uma faixa.
+
+00:04:03.998 --> 00:04:04.841
+Andamento.
+
+00:04:05.641 --> 00:04:16.316
+O andamento é medido em batidas por minuto (BPM). A 120 BPM há dois tempos por segundo. Com um pouco de aritmética você descobre quanto dura cada passo:
+
+00:04:17.116 --> 00:04:24.537
+Um tempo dura 60.000 ms divididos pelo BPM. A 120 BPM, são 500 ms.
+
+00:04:25.337 --> 00:04:32.015
+Um passo, uma semicolcheia, é a quarta parte disso: 125 ms a 120 BPM.
+
+00:04:32.815 --> 00:04:41.456
+Você não precisa dos números para fazer beats, mas eles explicam por que andamentos rápidos parecem cheios: os mesmos 16 passos passam em menos tempo.
+
+00:04:42.256 --> 00:04:53.427
+Dica: Comece cada beat novo num andamento médio, entre 90 e 120 BPM. Fica mais fácil ouvir o que cada passo faz. Você sempre pode mudar o andamento depois.
+
+00:04:54.927 --> 00:04:55.864
+Para praticar.
+
+00:04:56.664 --> 00:05:02.630
+Primeiro: ajuste sua bateria eletrônica para 120 BPM, com um padrão de 16 passos.
+
+00:05:03.430 --> 00:05:11.232
+Segundo: coloque um bumbo nos passos 1, 5, 9 e 13. Conte 1, 2, 3, 4 junto.
+
+00:05:12.032 --> 00:05:21.650
+Terceiro: mova o bumbo para os passos 3, 7, 11 e 15. Diga e a cada vez que ele tocar. Ouça como a sensação muda.
+
+00:05:22.450 --> 00:05:29.111
+Quarto: mude o andamento para 90 BPM e depois para 140 BPM, sem mexer nos passos.
+
+00:05:30.911 --> 00:05:34.161
+A bateria numa caixa. O que cada som faz.
+
+00:05:34.961 --> 00:05:44.592
+Uma bateria eletrônica é uma bateria que você pode programar. Cada som tem uma função no beat. Conhecê-las ajuda a decidir onde colocar cada um.
+
+00:05:46.092 --> 00:05:46.714
+O bumbo.
+
+00:05:47.514 --> 00:06:02.386
+O bumbo (kick) é o som mais grave e pesado. Marca os pontos fortes do beat e carrega quase toda a energia em sistemas de som grandes. Na música de pista costuma tocar em todos os tempos; no hip-hop toca um ritmo mais variado.
+
+00:06:03.886 --> 00:06:05.104
+A caixa e o clap.
+
+00:06:05.904 --> 00:06:25.088
+A caixa (snare) é um estalo seco e brilhante. Na maioria dos estilos populares toca nos tempos 2 e 4, o backbeat. É o que faz você bater palmas junto. O clap, uma rajada de palmas curtas, faz o mesmo papel com outra cor, e muitas vezes é somado à caixa ou usado no lugar dela.
+
+00:06:26.588 --> 00:06:27.461
+Os chimbais.
+
+00:06:28.261 --> 00:06:49.536
+O chimbal fechado (hi-hat) é um tique curto e apertado. Costuma marcar o tempo, em colcheias ou semicolcheias, e define o quanto o beat parece cheio. O chimbal aberto é mais longo e chia. Em muitas baterias eletrônicas, o chimbal fechado corta o aberto, como numa bateria de verdade, em que fechar o chimbal faz ele parar de soar.
+
+00:06:51.036 --> 00:06:52.961
+Tons, pratos e percussão.
+
+00:06:53.761 --> 00:06:59.653
+Tons: tambores afinados, agudo, médio e grave, usados principalmente nas viradas.
+
+00:07:00.453 --> 00:07:04.178
+Crash: um prato forte que marca o começo de uma nova seção.
+
+00:07:04.978 --> 00:07:09.456
+Condução (ride): um prato para marcar o tempo com um som mais aberto que o chimbal.
+
+00:07:10.256 --> 00:07:17.804
+Percussão: aro (rim shot), cowbell, shaker, conga, pandeirola e mais. Trazem cor e movimento.
+
+00:07:19.304 --> 00:07:21.475
+Agudo, médio, grave.
+
+00:07:22.275 --> 00:07:37.116
+Uma forma útil de pensar um beat: o bumbo ocupa os graves, a caixa e o clap os médios, e os chimbais e pratos os agudos. Um beat que tem algo em cada faixa soa cheio. Se dois sons da mesma faixa tocam sempre juntos, eles brigam.
+
+00:07:37.916 --> 00:07:46.405
+Dica: Conheça seu kit antes de escrever beats. Ouça cada som sozinho e ajuste o volume para que nenhum fique muito acima dos outros.
+
+00:07:47.905 --> 00:07:48.842
+Para praticar.
+
+00:07:49.642 --> 00:07:56.308
+Primeiro: toque cada som do seu kit, um de cada vez. Diga que função você acha que cada um poderia ter.
+
+00:07:57.108 --> 00:08:04.174
+Segundo: faça um padrão só com chimbal fechado, um passo sim e um não. Depois tente em todos os passos.
+
+00:08:04.974 --> 00:08:09.945
+Terceiro: acrescente uma caixa nos passos 5 e 13. Esse é o backbeat.
+
+00:08:10.745 --> 00:08:14.944
+Quarto: troque a caixa por um clap e depois experimente os dois juntos.
+
+00:08:16.744 --> 00:08:17.660
+Por hoje é isso.
+
+00:08:18.460 --> 00:08:20.000
+Se você quiser continuar:
+
+00:08:20.800 --> 00:08:30.852
+O Monobox é o app por trás deste ebook. É uma bateria eletrônica e groovebox: um lugar para fazer beats, passo a passo, e transformá-los em grooves.
+
+00:08:31.652 --> 00:08:35.034
+Tudo o que o ebook ensina foi pensado para ser experimentado nele:
+
+00:08:35.834 --> 00:08:38.320
+programar padrões numa grade de passos.
+
+00:08:39.120 --> 00:08:41.511
+saber o que cada som de bateria faz.
+
+00:08:42.311 --> 00:08:45.129
+construir os ritmos clássicos de cada gênero.
+
+00:08:45.929 --> 00:08:49.213
+acrescentar swing, dinâmica e design de som.
+
+00:08:50.013 --> 00:08:52.364
+transformar um padrão numa faixa inteira.
+
+00:08:53.164 --> 00:08:58.002
+Este ebook é gratuito. Compartilhe com quem quer fazer seus primeiros beats.
+
+00:08:58.802 --> 00:09:03.052
+Este episódio de Faça seus primeiros beats foi narrado com uma voz sintética.
+

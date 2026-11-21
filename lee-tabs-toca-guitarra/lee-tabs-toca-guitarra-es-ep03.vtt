@@ -1,0 +1,197 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:06.348
+Esto es Lee tabs, toca guitarra, de Fretbox. Tablatura y partitura para guitarra, paso a paso.
+
+00:00:07.148 --> 00:00:09.193
+Hoy: el mástil y acordes abiertos.
+
+00:00:10.993 --> 00:00:13.222
+El mástil. Encontrar las notas.
+
+00:00:14.022 --> 00:00:24.777
+La tab te dice dónde poner los dedos, pero conocer las notas del mástil convierte una lista de números en música que entiendes. No hace falta memorizar todas las notas de golpe. Empieza por unos puntos de referencia.
+
+00:00:26.277 --> 00:00:27.407
+El alfabeto musical.
+
+00:00:28.207 --> 00:01:03.385
+La música occidental usa siete nombres de nota: do, re, mi, fa, sol, la, si. En cifrado americano, que es el que verás en tabs y acordes: C, D, E, F, G, A, B. Entre la mayoría de ellas hay una nota intermedia, un sostenido (#) o bemol (b): C#/Db, D#/Eb, F#/Gb, G#/Ab, A#/Bb. Hay dos excepciones: no hay ninguna nota entre mi y fa (E y F) ni entre si y do (B y C). Esos pares están a un semitono.
+
+00:01:04.185 --> 00:01:07.220
+Así que las doce notas, por semitonos, son:
+
+00:01:08.020 --> 00:01:17.393
+A, A#, B, C, C#, D, D#, E, F, F#, G, G#, y otra vez A.
+
+00:01:18.893 --> 00:01:21.112
+Las notas de la cuerda 6 (mi grave).
+
+00:01:21.912 --> 00:01:28.401
+Como cada traste es un semitono, puedes sacar todas las notas de una cuerda contando desde la nota al aire. En la cuerda 6 (E):
+
+00:01:29.201 --> 00:01:30.867
+Traste 0: E (mi)
+
+00:01:31.667 --> 00:01:33.289
+Traste 1: F (fa)
+
+00:01:34.089 --> 00:01:35.920
+Traste 3: G (sol)
+
+00:01:36.720 --> 00:01:38.336
+Traste 5: A (la)
+
+00:01:39.136 --> 00:01:40.752
+Traste 7: B (si)
+
+00:01:41.552 --> 00:01:43.330
+Traste 8: C (do)
+
+00:01:44.130 --> 00:01:45.878
+Traste 10: D (re)
+
+00:01:46.678 --> 00:01:49.022
+Traste 12: E (mi) otra vez.
+
+00:01:49.822 --> 00:01:54.070
+La cuerda 1 tiene las mismas notas en los mismos trastes, dos octavas más agudas.
+
+00:01:55.570 --> 00:01:57.492
+Las notas de la cuerda 5 (la).
+
+00:01:58.292 --> 00:01:59.490
+En la cuerda 5 (A):
+
+00:02:00.290 --> 00:02:01.917
+Traste 0: A (la)
+
+00:02:02.717 --> 00:02:04.259
+Traste 2: B (si)
+
+00:02:05.059 --> 00:02:06.776
+Traste 3: C (do)
+
+00:02:07.576 --> 00:02:09.365
+Traste 5: D (re)
+
+00:02:10.165 --> 00:02:11.898
+Traste 7: E (mi)
+
+00:02:12.698 --> 00:02:14.480
+Traste 8: F (fa)
+
+00:02:15.280 --> 00:02:17.253
+Traste 10: G (sol)
+
+00:02:18.053 --> 00:02:20.270
+Traste 12: A (la) otra vez.
+
+00:02:21.070 --> 00:02:26.933
+Estas dos cuerdas son las más útiles para aprender primero, porque muchos acordes y digitaciones de escalas empiezan en ellas.
+
+00:02:28.433 --> 00:02:29.252
+Formas de octava.
+
+00:02:30.052 --> 00:02:43.284
+Un truco para encontrar la misma nota en otra cuerda: desde cualquier nota de la cuerda 6, cruza dos cuerdas (hasta la 4) y sube dos trastes. Es la misma nota, una octava más aguda. Lo mismo funciona de la cuerda 5 a la 3.
+
+00:02:44.084 --> 00:02:52.207
+Consejo: Di los nombres de las notas en voz alta mientras tocas. Al principio parece lento, pero en unas semanas conocerás las cuerdas graves sin pensar.
+
+00:02:53.707 --> 00:02:54.503
+Para practicar.
+
+00:02:55.303 --> 00:02:59.909
+Primero: toca las notas de la cuerda 6 del traste 0 al 12, diciendo cada nombre.
+
+00:03:00.709 --> 00:03:02.943
+Segundo: haz lo mismo en la cuerda 5.
+
+00:03:03.743 --> 00:03:11.362
+Tercero: elige una nota, por ejemplo sol (G), y encuéntrala en las cuerdas 6 y 5. Luego busca su octava en las cuerdas 4 y 3.
+
+00:03:13.162 --> 00:03:16.804
+Acordes abiertos. Las posturas detrás de miles de canciones.
+
+00:03:17.604 --> 00:03:29.774
+Un acorde son tres o más notas tocadas a la vez. Los acordes abiertos combinan notas pisadas con cuerdas al aire, y son los primeros que aprende la mayoría de los guitarristas. Con un puñado de ellos puedes tocar una cantidad enorme de canciones.
+
+00:03:31.274 --> 00:03:32.312
+Leer un acorde en tab.
+
+00:03:33.112 --> 00:03:53.023
+En la tab, un acorde es una columna de números. Una x significa que esa cuerda no se toca. Estos son siete acordes abiertos esenciales, escritos de la cuerda 1 (arriba) a la 6 (abajo), con su nombre en cifrado americano (E = mi, Em = mi menor, A = la, Am = la menor, D = re, C = do, G = sol):
+
+00:03:53.823 --> 00:03:55.455
+El ejemplo está escrito en el ebook.
+
+00:03:56.955 --> 00:03:57.742
+Mayor y menor.
+
+00:03:58.542 --> 00:04:15.034
+Compara E con Em, o A con Am: solo cambia una nota. Esa nota es la tercera del acorde. En un acorde mayor está cuatro semitonos por encima de la fundamental; en uno menor, tres. Los acordes mayores suelen sonar luminosos y los menores más oscuros, aunque el contexto de la canción también cuenta.
+
+00:04:16.534 --> 00:04:17.387
+Cambiar de acorde.
+
+00:04:18.187 --> 00:04:23.833
+Lo difícil no es sostener un acorde, sino pasar de uno al siguiente a tiempo. Algunos hábitos que ayudan:
+
+00:04:24.633 --> 00:04:30.497
+Busca dedos guía: un dedo que se queda en la misma cuerda y traste en los dos acordes, o que se desliza por una misma cuerda.
+
+00:04:31.297 --> 00:04:33.740
+Mueve todos los dedos en bloque, no de uno en uno.
+
+00:04:34.540 --> 00:04:41.010
+Practica el cambio, no el acorde. Ve y vuelve entre dos acordes, despacio, sin rasguear entre medias.
+
+00:04:41.810 --> 00:04:53.043
+Consejo: Si una cuerda trastea o suena apagada, revisa tres cosas en este orden: ¿la yema está cerca del traste?, ¿pisa con la punta para no rozar la cuerda vecina?, ¿el pulgar está lo bastante bajo detrás del mástil?
+
+00:04:54.543 --> 00:04:55.339
+Para practicar.
+
+00:04:56.139 --> 00:05:02.766
+Primero: toca cada acorde cuerda por cuerda, desde la cuerda más grave que corresponda hasta la 1. Todas las notas deben sonar.
+
+00:05:03.566 --> 00:05:08.574
+Segundo: cambia entre Em y G durante un minuto, luego entre C y G, y luego entre D y A.
+
+00:05:09.374 --> 00:05:15.769
+Tercero: rasguea cada acorde cuatro veces y cambia, manteniendo un pulso constante. Empieza muy despacio.
+
+00:05:16.569 --> 00:05:22.443
+Cuarto: toca G, C, D, Em en bucle. Muchas canciones usan estos cuatro acordes.
+
+00:05:24.243 --> 00:05:25.203
+Eso es todo por hoy.
+
+00:05:26.003 --> 00:05:26.781
+Si quieres seguir:
+
+00:05:27.581 --> 00:05:38.406
+Fretbox es la app detrás de este ebook. Es un reproductor de tabs para guitarristas: abre archivos de tablatura en los formatos Guitar Pro y MusicXML, para que puedas leer una canción y escucharla a la vez.
+
+00:05:39.206 --> 00:05:41.834
+Todo lo que enseña el ebook está pensado para usarlo con ella:
+
+00:05:42.634 --> 00:05:44.923
+leer tablatura y los símbolos de cada técnica.
+
+00:05:45.723 --> 00:05:48.072
+seguir el ritmo en la partitura que acompaña a la tab.
+
+00:05:48.872 --> 00:05:51.694
+aprender el mástil, los acordes y las escalas.
+
+00:05:52.494 --> 00:05:55.879
+practicar canción a canción, sección a sección, a tu ritmo.
+
+00:05:56.679 --> 00:06:00.924
+Este ebook es gratis. Compártelo con cualquiera que esté empezando con la guitarra.
+
+00:06:01.724 --> 00:06:05.793
+Este episodio de Lee tabs, toca guitarra se ha narrado con una voz sintética.
+
